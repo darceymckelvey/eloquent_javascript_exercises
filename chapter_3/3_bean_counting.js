@@ -25,6 +25,8 @@ function countBs (string) {
 console.log(countBs("BeebB"));
 
 /*
+ *  The solution at https://eloquentjavascript.net/code/#3.3
+ *
  *  fucntion countChar(string, ch) {
  *    let counted = 0;
  *    for (let i = 0; i < string.length; i++) {
