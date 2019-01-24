@@ -17,9 +17,13 @@ function min(num1, num2){
 min(56, 5);
 
 /*
+ *  The solution at https://eloquentjavascript.net/code/#3.1
+ *
  *  function min(a, b) {
  *    if (a < b) return a;
  *    else return b;
  *  }
+ *
+ *  console.log(min(0, 10));
  *
  * */
